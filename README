@@ -1,0 +1,6 @@
+The background worker allows you to execute intense or long operations on a separate thread, without having to deal with threads, invokes or delegates. This is essential in today's cluttered webspace brought forth by the constant growth of broadband technology.
+
+This simple example pretty much cover all posibilities of use of this component: cancellation support, backgroundworker error handling and report progress (also passing UserState data on report progress notifications)
+
+Articule available here:
+http://www.dotneat.net/2009/02/10/BackgroundworkerExample.aspx
